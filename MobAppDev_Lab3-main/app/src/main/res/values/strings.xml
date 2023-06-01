@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab_3</string>
+    <string name="button2">Frame</string>
+    <string name="button1">Constraint</string>
+    <string name="button3">Lineral</string>
+    <string name="text" />
+    <string name="chat_send_button">Отправить</string>
+    <string name="chat_edit_text">Введите сообщение...</string>
+    <string name="hi">Нажми на меня!</string>
+    <string name="text1">teeeeeeeext</string>
+</resources>
